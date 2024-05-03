@@ -1,0 +1,14 @@
+.box{
+    background-color: blue;
+    padding: 10px;
+}
+
+p{
+   color: yellow;
+   padding: 0%;
+   margin: 0%; 
+}
+.white-text{
+    color: purple;
+    background-color: red;
+}
