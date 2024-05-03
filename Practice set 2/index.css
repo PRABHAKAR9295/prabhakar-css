@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#navbar {
+    height: 60px;
+    background-color: red;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+
+    color: #f08804;
+    font-size: 30px;
+}
+a{
+    margin-right: 180px;
+    text-decoration: none;
+}  
+html{
+    text-align: center;
+}
+.welcom{
+    margin: 25px;
+    padding: 25px;
+}
+
+
