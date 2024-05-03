@@ -1,0 +1,9 @@
+html{
+    background-color: blue;
+}
+p{
+    color: yellow;
+}
+.inner-box p{
+    color: red;
+}
